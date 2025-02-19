@@ -22,6 +22,6 @@ Predictive Insights – Use of statistical techniques to predict potential trend
 Tools Used
 To conduct this analysis, the following tools and technologies were utilized:
 
-Power BI / Tableau – For creating interactive dashboards and reports.
+Power BI  – For creating interactive dashboards and reports.
 Excel – For initial data exploration and summarization.
 These tools enabled efficient data handling, visualization, and interpretation, leading to meaningful insights into workplace diversity and inclusion.
