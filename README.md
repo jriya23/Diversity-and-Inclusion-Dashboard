@@ -36,7 +36,7 @@ Retention Rates: The turnover rate among underrepresented groups is 18% higher t
 How to Use
 
 Clone this repository:
-git clone https://github.com/jriya23/diversity-inclusion-analysis.git
+git clone https://github.com/jriya23/Diversity-and-Inclusion-Dashboard
 
 Install dependencies:
 pip install pandas numpy matplotlib seaborn
